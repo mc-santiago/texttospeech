@@ -11,3 +11,7 @@ Semantic UI was used as the framework for this website. https://react.semantic-u
 ## Netlify
 
 The link to the project is: https://writeoutloud.netlify.com/
+
+## Presentation
+
+The PowerPoint used to present this project was the following: https://docs.google.com/presentation/d/1_DSSTBhApcIiqeIbzIkRSA9Bj2DJzQltWl7kPn934qI/edit?usp=sharing
